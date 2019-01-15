@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1544706611 source:c:\users\2182202\desktop\finalproject\util.c
+	"util.h"
+	<stdio.h>
+
+1544708782 
+
+1544706530 c:\users\2182202\desktop\finalproject\util.h
+
+1544709273 source:c:\users\2182202\desktop\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	"util.h"
+	"bike.h"
+	"menu.h"
+	"file.h"
+
+1544708143 c:\users\2182202\desktop\finalproject\structs.h
+
+1544707767 c:\users\2182202\desktop\finalproject\bike.h
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
+1544707767 "
+
+1544708150 source:c:\users\2182202\desktop\finalproject\bike.c
+	"bike.h"
+
+1544709169 source:c:\users\2182202\desktop\finalproject\file.c
+	"file.h"
+
+1544709211 c:\users\2182202\desktop\finalproject\file.h
+	<stdio.h>
+	<stdlib.h>
+
+1544708782 c:\users\2182202\desktop\finalproject\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1547486961 source:/home/anubis/git/FinalProject/bike.c
+	"bike.h"
+
+1547486968 /home/anubis/git/FinalProject/bike.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"campus.h"
+	"file.h"
+	"util.h"
+	"structs.h"
+
+1547149683 /home/anubis/git/FinalProject/file.h
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1547469311 /home/anubis/git/FinalProject/util.h
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	"structs.h"
+
+1547503472 /home/anubis/git/FinalProject/structs.h
+
+1547149665 source:/home/anubis/git/FinalProject/file.c
+	"file.h"
+
+1547497669 source:/home/anubis/git/FinalProject/main.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	"bike.h"
+	"bike_history.h"
+	"campus.h"
+	"file.h"
+	"loan.h"
+	"menu.h"
+	"stats.h"
+	"structs.h"
+	"user.h"
+	"util.h"
+
+1547486311 /home/anubis/git/FinalProject/menu.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"util.h"
+
+1547428074 /home/anubis/git/FinalProject/user.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"file.h"
+	"util.h"
+	"structs.h"
+
+1547496309 source:/home/anubis/git/FinalProject/menu.c
+	"menu.h"
+
+1547484166 source:/home/anubis/git/FinalProject/util.c
+	"util.h"
+	<stdio.h>
+
+1547487573 source:/home/anubis/git/FinalProject/loan.c
+	"loan.h"
+
+1547473078 /home/anubis/git/FinalProject/loan.h
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"user.h"
+	"util.h"
+	"structs.h"
+
+1547488656 source:/home/anubis/git/FinalProject/user.c
+	"user.h"
+
+1547470670 /home/anubis/git/FinalProject/campus.h
+	<limits.h>
+	<float.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"user.h"
+	"structs.h"
+
+1547496922 source:/home/anubis/git/FinalProject/bike_history.c
+	"bike_history.h"
+
+1547489234 /home/anubis/git/FinalProject/bike_history.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"file.h"
+	"util.h"
+	"stats.h"
+	"structs.h"
+
+1547473951 source:/home/anubis/git/FinalProject/campus.c
+	"campus.h"
+
+1547496854 source:/home/anubis/git/FinalProject/stats.c
+	"stats.h"
+
+1547496878 /home/anubis/git/FinalProject/stats.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"user.h"
+	"structs.h"
+
